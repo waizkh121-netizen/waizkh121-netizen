@@ -1,7 +1,7 @@
-<h1 align="center">Waiz</h1>
+<h1 align="center">Waiz_khan</h1>
 
 <p align="center">
-  Developer • Builder • Problem Solver
+  Developer • Builder • Problem Solving
 </p>
 
 <p align="center">
@@ -12,11 +12,13 @@
 
 ## About
 
-I’m a developer focused on building practical systems and understanding how things work underneath the surface.
+I’m a developer focused on building practical systems and understanding how things work.
 
 My current work revolves around **Python, JavaScript/TypeScript, full-stack development, APIs, databases, automation, and AI-assisted development**.
 
-I prefer solving real problems and building working products over collecting technologies for the sake of it.
+And do web development with the help of Ai models.
+
+I prefer building working products and solving problems .
 
 ---
 
