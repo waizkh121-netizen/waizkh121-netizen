@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=9A9A9A&center=true&vCenter=true&width=700&lines=Python+%7C+TypeScript+%7C+Full-Stack+Development;APIs+%7C+Databases+%7C+Automation;AI-assisted+development+and+problem+solving;Learning.+Building.+Shipping." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=9A9A9A&center=true&vCenter=true&width=700&lines=Python+%7C+TypeScript+%7C+Web-Stack+Development;APIs+%7C+Databases+%7C+Automation;AI-assisted+development+and+problem+solving;Learning.+Building.+Shipping." />
 </p>
 
 ---
@@ -14,11 +14,9 @@
 
 I’m a developer focused on building practical systems and understanding how things work.
 
-My current work revolves around **Python, JavaScript/TypeScript, full-stack development, APIs, databases, automation, and AI-assisted development**.
+My current work revolves around **Python, JavaScript/TypeScript, web-development, APIs, databases, automation, and AI-assisted development**.
 
-And do web development with the help of Ai models.
-
-I prefer building working products and solving problems .
+I prefer UI Designing, building working products and solving problems .
 
 ---
 
