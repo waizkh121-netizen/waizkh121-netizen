@@ -1,4 +1,4 @@
-<h1 align="center">Waiz+khan</h1>
+<h1 align="center">Waiz khan</h1>
 
 <p align="center">
   Developer • Builder • Problem Solving
